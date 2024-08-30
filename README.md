@@ -1,2 +1,1 @@
-# meu-primeiro-projeto
-projeto da escola
+meu primeiro projeto
